@@ -14,7 +14,7 @@ My ultimate goal is to specialize in machine learning and pattern recognition to
 - <b>Back-end:</b> Python, Flask.
 - <b>Front-end:</b> Vue.JS, React.JS.
 - <b>Databases:</b> SQL, NoSQL, Memcached, Redis.
-- <b>Middleware:</> RabbitMQ.
+- <b>Middleware:</b> RabbitMQ.
 - <b>Tools:</b> Git, GitHub, JWT, Docker.
 - <b>Learning:</b> Cibersecurity, AES, SSH.
 
