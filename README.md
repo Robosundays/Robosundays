@@ -11,12 +11,12 @@ My ultimate goal is to specialize in machine learning and pattern recognition to
 
 ## Technologies 🛠️
 
-- <b>Programming Languages:</b> HTML, CSS.
 - <b>Back-end:</b> Python, Flask.
 - <b>Front-end:</b> Vue.JS, React.JS.
-- <b>Databases:</b> SQL, NoSQL.
-- <b>Tools:</b> Git, GitHub, JWT, Node.JS, Axios.
-- <b>Learning:</b> Cibersecurity, AES, ChaCha20.
+- <b>Databases:</b> SQL, NoSQL, Memcached, Redis.
+- <b>Middleware:</> RabbitMQ.
+- <b>Tools:</b> Git, GitHub, JWT, Docker.
+- <b>Learning:</b> Cibersecurity, AES, SSH.
 
 ## Contact 📬
 Connect with me on [LinkedIn](https://www.linkedin.com/in/izaacrob/) or by email at Izaacrob1@gmail.com
